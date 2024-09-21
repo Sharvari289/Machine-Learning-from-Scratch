@@ -1,6 +1,6 @@
 # Machine Learning from Scratch
 
-This repository contains Python implementations of various foundational machine learning algorithms, built entirely from scratch 'without using' external machine learning libraries such as `scikit-learn`. The focus is on understanding the underlying mathematics and logic behind each algorithm.
+This repository contains Python implementations of various foundational machine learning algorithms, built entirely from scratch `without using` external machine learning libraries such as `scikit-learn`. The focus is on understanding the underlying mathematics and logic behind each algorithm.
 
 ## Implemented Algorithms
 
